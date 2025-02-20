@@ -2,7 +2,7 @@
 {-# LANGUAGE LambdaCase #-}
 {-# LANGUAGE OverloadedStrings #-}
 
-module Crypto.SecretLibs
+module Crypto.Manager
   ( decryptFile,
     encryptFile,
     lookupSecret,
